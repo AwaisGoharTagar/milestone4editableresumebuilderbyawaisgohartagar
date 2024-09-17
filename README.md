@@ -12,7 +12,7 @@ the table.
 2 
  Use TypeScript to add the entered product data to the table when the button is clicked. 
 
-Scoring Breakdown: 
+Scoring Breakdown:
 
  Form and Input Fields (25 points): 
 
