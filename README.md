@@ -21,3 +21,5 @@ Are the input fields and "Add Product" button functional and styled?
  TypeScript Event Handling (25 points): 
 
 Can the user add new products dynamically, and does the table update accordingly? 
+
+Made by Muhammad Awais Gohar Tagar
